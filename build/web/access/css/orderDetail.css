@@ -1,0 +1,71 @@
+body{
+    font: 15px Arial,Helvetica,Tahoma,Verdana;
+    background-image: url('https://www.vietjetair.com/static/media/bay_vao_tuong_lai_bg_mb.e310d427.png');
+    /*background-repeat: no-repeat;*/
+    background-size: 100%;
+
+}
+
+.heading-h3{
+    background-color: #F44D06 ;
+    color: #fff;
+    font-size: 16px;
+    line-height: 40px;
+    text-align: left;
+    text-indent: 45px;
+    text-shadow: 1px 1px 0 #343333;
+    text-transform: uppercase;
+}
+.dep-res a {
+    color: #F44D06;
+    display: block;
+    font-weight: 700;
+    text-decoration: underline;
+}
+.ticket-type p{
+    margin: 0
+}
+select {
+    background: #fff;
+    border: 1px solid #F44D06;
+    padding: 2px;
+}
+
+
+.price-details {
+    background-color: white;
+    border: 1px solid #8888;
+}
+
+.price-details-title {
+    width: 100%;
+    font-size: 16px;
+    height: 37px;
+    line-height: 37px;
+    text-shadow: 0.1em 0.1em 0.2em #000;
+    text-align: center;
+    color: white;
+    background-color: #f44d06;
+}
+
+#infoticketGO tr td,
+#infoticketBack tr td {
+    font-size: 12px;
+    padding: 6px 7px;
+    color: #000;
+}
+
+#valuehanhlyld {
+    text-align: right;
+}
+
+.border-airline {
+    border-bottom: 2px solid #f44d06;
+}
+.count{
+    color: #F44D06; 
+    font-weight: bold; 
+    text-align: center;
+    font-size: 20px;
+    letter-spacing: 2px;
+}

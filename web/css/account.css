@@ -1,0 +1,30 @@
+body{
+    font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+    background-image: url('https://www.vietjetair.com/static/media/bay_vao_tuong_lai_bg_mb.e310d427.png');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    font: 15px Arial,Helvetica,Tahoma,Verdana;
+}
+.custom-card{
+    margin-bottom: 10px;
+}
+/*.custom-card-title{
+    background-color: #F44D06;
+    margin-left: 0px;
+    margin-right: 0px;
+    font-weight: bold;
+}*/
+.card-header{
+    background-color: #F44D06;
+    font-weight: bold;
+    color: white;
+}
+.custom-card-item{
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom:5px;
+    margin-top: 5px;
+}
+.custom-information{
+    font-weight: bold;
+}

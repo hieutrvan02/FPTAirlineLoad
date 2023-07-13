@@ -1,0 +1,29 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Jun 3, 2023, 4:34:27 PM
+    Author     : Lenovo
+*/
+body{
+    font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+    background-image: url('https://www.vietjetair.com/static/media/bay_vao_tuong_lai_bg_mb.e310d427.png');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    color: black;
+    font: 15px Arial,Helvetica,Tahoma,Verdana;
+}
+.card-header{
+    background-color: #F44D06;
+    font-weight: bold;
+}
+img{
+    width: 100%;
+}
+.btn{
+    background-color: #F44D06;
+}
+.card-link{
+    color: white;
+}

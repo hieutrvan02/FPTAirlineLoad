@@ -1,0 +1,14 @@
+body{
+    font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+    background-image: url('https://www.vietjetair.com/static/media/bay_vao_tuong_lai_bg_mb.e310d427.png');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    font: 15px Arial,Helvetica,Tahoma,Verdana;
+}
+
+button{
+    background-color: #F44D06;
+}
+.card{
+    padding: 15px;
+}
